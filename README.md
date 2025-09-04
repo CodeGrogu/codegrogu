@@ -1,4 +1,4 @@
-### Hi there, I am Grogu 👋
+### Hi there, I am Jaden 👋
 
 I am an aspiring full-stack developer in both frontend and backend technologies including microservices. I like to challenge myself and take on new things. I believe nothing is too big an obsticle to take on. I plan on creating programmes that can change the your prespective on what can be done. Of course to do that I gotta get my hands dirty of course :D
 
