@@ -3,6 +3,7 @@
 I am an aspiring full-stack developer in both frontend and backend technologies including microservices. I like to challenge myself and take on new things. I believe nothing is too big an obsticle to take on. I plan on creating programmes that can change the your prespective on what can be done. Of course to do that I gotta get my hands dirty of course :D
 
 ### Technologies 🪫
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
